@@ -11,24 +11,24 @@
 
 <img align="right" 
      src="https://raw.githubusercontent.com/gauriwalve/gauriwalve/main/developer-girl.png" 
-     width="330"/>
+     width="320"/>
+<br><br><br><br>
+💻 Frontend Developer focused on modern web development <br>
 
-💻 Frontend Developer focused on modern web development <br><br>
+⚛️ React Developer who loves building real-world projects <br>
 
-⚛️ React Developer who loves building real-world projects <br><br>
+🌐 Skilled in creating responsive UI for all devices <br>
 
-🌐 Skilled in creating responsive UI for all devices <br><br>
+🔗 Working with API Integration and React Router <br>
 
-🔗 Working with API Integration and React Router <br><br>
+🛠️ Improving Redux Toolkit and Git workflow <br>
 
-🛠️ Improving Redux Toolkit and Git workflow <br><br>
-
-🚀 Deploying projects using Netlify and Vercel <br><br>
+🚀 Deploying projects using Netlify and Vercel <br>
 
 📚 Always learning and exploring new technologies
 
 <br clear="right"/>
----
+
 
 ## 🌐 Socials
 
