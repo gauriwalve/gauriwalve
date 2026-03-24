@@ -9,30 +9,25 @@
 ---
 ## 💫 About Me
 
-<table>
-<tr>
+<img align="right" 
+     src="https://raw.githubusercontent.com/gauriwalve/gauriwalve/main/developer-girl.png" 
+     width="330"/>
 
-<td width="60%">
+💻 Frontend Developer focused on modern web development <br><br>
 
-- 💻 Frontend Developer focused on modern web development
-- ⚛️ React Developer who loves building real-world projects
-- 🌐 Skilled in creating responsive UI for all devices
-- 🔗 Working with API Integration and React Router
-- 🛠️ Improving Redux Toolkit and Git workflow
-- 🚀 Deploying projects using Netlify and Vercel
-- 📚 Always learning and exploring new technologies
+⚛️ React Developer who loves building real-world projects <br><br>
 
-</td>
+🌐 Skilled in creating responsive UI for all devices <br><br>
 
-<td width="40%" align="center">
+🔗 Working with API Integration and React Router <br><br>
 
-<img src="https://raw.githubusercontent.com/gauriwalve/gauriwalve/main/developer-girl.png" width="280"/>
+🛠️ Improving Redux Toolkit and Git workflow <br><br>
 
-</td>
+🚀 Deploying projects using Netlify and Vercel <br><br>
 
-</tr>
-</table>
+📚 Always learning and exploring new technologies
 
+<br clear="right"/>
 ---
 
 ## 🌐 Socials
@@ -89,7 +84,7 @@
 ---
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=gauriwalve&icon=0&color=0"/>
+<img src="https://komarev.com/ghpvc/?username=gauriwalve&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
